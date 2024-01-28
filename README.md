@@ -1,4 +1,4 @@
-[![MasterHead](https://www.webidsolutions.co.uk/public/images/aws-banneriamges.jpg)
+![MasterHead](https://www.webidsolutions.co.uk/public/images/aws-banneriamges.jpg)
 
 <h1 align="center">Hi 👋, I'm Pramodh</h1>
 <h3 align="center">A passionate AWS Architect in Manchester</h3>
