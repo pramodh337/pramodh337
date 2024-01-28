@@ -3,7 +3,8 @@
 <h1 align="center">Hi 👋, I'm Pramodh</h1>
 <h3 align="center">A passionate AWS Architect in Manchester</h3>
 
-(img align="right" alt="Coding" width="400" src="https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_photorealistic_circuitry_arranged_in_amazons_smile_arro_8eae54c6-b579-452d-b3e7-919635baad91.webp?fit=1620%2C908&strip=all")
+
+<img align="right" alt="Coding" width="400" src="https://venturebeat.com/wp-content/uploads/2023/11/cfr0z3n_photorealistic_circuitry_arranged_in_amazons_smile_arro_8eae54c6-b579-452d-b3e7-919635baad91.webp?fit=1620%2C908&strip=all">
 
 - 🔭 I’m currently working on Build Serverless Pipeline using AWS CDK and Lambda in Python [Link 1](Link 1)
 
